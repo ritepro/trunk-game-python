@@ -1,5 +1,6 @@
 # Trunk Game
 A simple text-based game for learning purposes.
+5 days into coding just having fun creating new things
 
 ## Badges
 [![Python version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
